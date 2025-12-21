@@ -1,0 +1,20 @@
+# dependencies
+node_modules/
+
+# env
+.env
+.env.*
+
+# wallets / keys
+keypair.json
+wallet.json
+wallet.mnemonic.enc.json
+*.key
+*.pem
+
+# editor
+.vscode/
+
+# runtime data
+data/
+
