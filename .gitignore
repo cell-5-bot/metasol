@@ -1,3 +1,4 @@
+
 # dependencies
 node_modules/
 
@@ -16,5 +17,8 @@ wallet.mnemonic.enc.json
 .vscode/
 
 # runtime data
+data/
+
+# docker runtime data
 data/
 
