@@ -1,2 +1,3 @@
 # solmeta
 # solmetbot
+# metasol
